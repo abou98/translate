@@ -1,0 +1,19 @@
+{
+    "All": {
+        "Connexion": {
+            "title": "Connexion",
+            "subTitle": "Renseignez vos identifiants pour vous connecter",
+            "btnLogin": "Connexion",
+            "placeholderLogin": "Nom d'utilisateur",
+            "placeholderPassword": "Mot de passe",
+            "motPasseOublie": "Mot de passe oublié"
+        }
+    },
+
+    "SuperAdmin": {
+        "dashboard" : {
+            
+        }
+    }
+
+}
